@@ -1,0 +1,1 @@
+D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\Universal.Windows.csproj;neutral

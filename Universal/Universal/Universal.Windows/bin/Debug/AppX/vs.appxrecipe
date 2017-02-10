@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W0471</Machine>
+    <WindowsUser>IIUgov</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a9cc5245-8197-4d45-8958-0c3d530f893e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=IIUgov</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8E2ED858C6DA2020D79EB9B547FE2BAA1F8888E8016972068DFB35B21E10FDCD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a9cc5245-8197-4d45-8958-0c3d530f893e_1.0.0.0_neutral__j0hc1tm1war9r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a9cc5245-8197-4d45-8958-0c3d530f893e_j0hc1tm1war9r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a9cc5245-8197-4d45-8958-0c3d530f893e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=IIUgov</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-10T12:28:22.314</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\bin\Debug\Universal.Windows.exe">
+      <PackagePath>Universal.Windows.exe</PackagePath>
+      <Modified>2017-02-10T12:28:21.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\bin\Debug\Universal.Windows.xr.xml">
+      <PackagePath>Universal.Windows.xr.xml</PackagePath>
+      <Modified>2017-02-10T12:28:20.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-02-10T12:28:21.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-02-10T12:28:21.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MyProjects\ExampleUniversalProject\Universal\Universal\Universal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-10T12:28:21.486</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
